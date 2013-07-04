@@ -1,30 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb77a5d2-4efc-4490-b172-ce9ab77d98da" name="Default" comment="Add datetimepicker">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/bootstrap-datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/bootstrap-datetimepicker.min.js" />
+    <list default="true" id="cb77a5d2-4efc-4490-b172-ce9ab77d98da" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\ApplicationResources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\ApplicationResources$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\ApplicationResources.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BootStrap$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BootStrap$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BootStrap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BuildConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BuildConfig$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BuildConfig$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BuildConfig$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BuildConfig$_run_closure1_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\Config$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\Config$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\Config$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\Config$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\Config.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure4_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure5_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure6_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource$_run_closure3_closure6_closure9_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DrillingMeasured$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DrillingMeasured$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\DrillingMeasured.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\KpTugas1$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\KpTugas1$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\KpTugas1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\KpTugas1Controller$_sgIpPing_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\KpTugas1Controller.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtEnvironment$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtEnvironment$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtEnvironment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtRigType$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtRigType$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtRigType.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtWellPurpose$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtWellPurpose$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\MtWellPurpose.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\PermanentDatum$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\PermanentDatum$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\PermanentDatum.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\UrlMappings$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\UrlMappings$__clinit__closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\UrlMappings$__clinit__closure1_closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\UrlMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\WitsProject.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\WitsProjectController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\WitsWellSg$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\WitsWellSg$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\WitsWellSg.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\WitsWellSgController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\application.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\kerjapraktek\HelloWorldController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\resources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\resources.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerjaPraktek-grailsPlugins.iml" afterPath="$PROJECT_DIR$/KerjaPraktek-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerjaPraktek.iml" afterPath="$PROJECT_DIR$/KerjaPraktek.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" afterPath="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" afterPath="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KerjaPraktek.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
     <file path="/HelloWorldController.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372654028941" ignored="false" />
-    <file path="/fragment.java" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372654897108" ignored="false" />
+    <file path="/fragment.java" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372900562832" ignored="false" />
     <file path="/WitsWellSg.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372657049759" ignored="false" />
     <file path="/_form.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372900023532" ignored="false" />
     <file path="/KpTugas1.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372829906720" ignored="false" />
     <file path="/main.css" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372732248004" ignored="false" />
-    <file path="/create.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372818282548" ignored="false" />
-    <file path="/KpTugas1Controller.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372846440571" ignored="false" />
+    <file path="/create.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372901917988" ignored="false" />
+    <file path="/KpTugas1Controller.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372901585593" ignored="false" />
     <file path="/list.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372686488044" ignored="false" />
     <file path="/show.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372839637278" ignored="false" />
     <file path="/edit.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372726936825" ignored="false" />
-    <file path="/Dummy.txt" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372899973200" ignored="false" />
+    <file path="/Dummy.txt" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372902303891" ignored="false" />
+    <file path="/ApplicationResources.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372902135813" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +100,11 @@
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
@@ -76,23 +144,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" line="108" class="KpTugas1Controller" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -102,24 +154,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_form.gsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_form.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="307" column="29" selection-start="13168" selection-end="13168" vertical-scroll-proportion="0.20229007">
+            <state line="231" column="74" selection-start="9906" selection-end="9906" vertical-scroll-proportion="27.567568">
               <folding>
-                <marker date="1372900024963" expanded="true" signature="1332:1345" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="1446:1459" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="1560:1573" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="1674:1687" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="5987:5997" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="6180:6190" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="6373:6383" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="6565:6575" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="7002:7012" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="7199:7209" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="7396:7406" placeholder="{...}" />
-                <marker date="1372900024963" expanded="true" signature="7592:7602" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="1332:1345" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="1446:1459" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="1560:1573" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="1674:1687" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="5987:5997" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="6180:6190" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="6373:6383" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="6565:6575" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="7002:7012" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="7199:7209" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="7396:7406" placeholder="{...}" />
+                <marker date="1372900053900" expanded="true" signature="7592:7602" placeholder="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="23" selection-start="146" selection-end="146" vertical-scroll-proportion="1.6938776">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-datetimepicker.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/css/bootstrap-datetimepicker.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,9 +215,30 @@
       <file leaf-file-name="KpTugas1Controller.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="0" selection-start="4666" selection-end="4666" vertical-scroll-proportion="0.0">
+            <state line="116" column="15" selection-start="4051" selection-end="4051" vertical-scroll-proportion="2.4782608">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationResources.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="60" selection-start="218" selection-end="218" vertical-scroll-proportion="0.27272728">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KpTugas1.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/KpTugas1.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="35" selection-start="4431" selection-end="4431" vertical-scroll-proportion="-5.9791665">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -176,7 +267,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/domain/MtWellPurpose.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/WitsWellSgController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/WitsProjectController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/WitsWellSg.groovy" />
@@ -188,10 +278,11 @@
         <option value="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
         <option value="$PROJECT_DIR$/web-app/js/application.js" />
         <option value="$PROJECT_DIR$/grails-app/domain/KpTugas1.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/show.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
       </list>
     </option>
   </component>
@@ -299,6 +390,9 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CfmlUnitRunConfigurationType" factoryName="MXUnit" method="" path="" scope="Component" webpath="">
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -436,6 +530,11 @@
       <created>1372653757143</created>
       <updated>1372653757143</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add datetimepicker">
+      <created>1372900059230</created>
+      <updated>1372900059230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -463,33 +562,33 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.786859" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21314102" sideWeight="0.11212121" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674772" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409091" sideWeight="0.60030395" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3253205" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.67147434" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21314102" sideWeight="0.98898304" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.67467946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21314102" sideWeight="0.8878788" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409091" sideWeight="0.60030395" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -538,7 +637,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add datetimepicker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify sgIpPing, css-js workarounds" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -553,6 +652,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Add datetimepicker" />
+    <MESSAGE value="Modify sgIpPing, css-js workarounds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -562,18 +662,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="0" selection-start="4666" selection-end="4666" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="8" selection-start="1072" selection-end="1072" vertical-scroll-proportion="-0.026970955" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -635,16 +723,46 @@
         <state line="13" column="4" selection-start="363" selection-end="363" vertical-scroll-proportion="0.398773" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/show.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="96" selection-start="255" selection-end="255" vertical-scroll-proportion="-1.9148936">
+        <state line="143" column="91" selection-start="6624" selection-end="6624" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/show.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/KpTugas1.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="91" selection-start="6624" selection-end="6624" vertical-scroll-proportion="0.0">
+        <state line="132" column="35" selection-start="4431" selection-end="4431" vertical-scroll-proportion="-5.9791665">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="74" selection-start="9906" selection-end="9906" vertical-scroll-proportion="27.567568">
+          <folding>
+            <marker date="1372900053900" expanded="true" signature="1332:1345" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="1446:1459" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="1560:1573" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="1674:1687" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="5987:5997" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="6180:6190" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="6373:6383" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="6565:6575" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="7002:7012" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="7199:7209" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="7396:7406" placeholder="{...}" />
+            <marker date="1372900053900" expanded="true" signature="7592:7602" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/css/bootstrap-datetimepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -656,40 +774,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/KpTugas1.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="35" selection-start="4431" selection-end="4431" vertical-scroll-proportion="-7.44">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="0" selection-start="4666" selection-end="4666" vertical-scroll-proportion="0.0">
+        <state line="116" column="15" selection-start="4051" selection-end="4051" vertical-scroll-proportion="2.4782608">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="307" column="29" selection-start="13168" selection-end="13168" vertical-scroll-proportion="0.20229007">
-          <folding>
-            <marker date="1372900024963" expanded="true" signature="1332:1345" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="1446:1459" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="1560:1573" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="1674:1687" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="5987:5997" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="6180:6190" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="6373:6383" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="6565:6575" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="7002:7012" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="7199:7209" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="7396:7406" placeholder="{...}" />
-            <marker date="1372900024963" expanded="true" signature="7592:7602" placeholder="{...}" />
-          </folding>
+        <state line="4" column="23" selection-start="146" selection-end="146" vertical-scroll-proportion="1.6938776">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="60" selection-start="218" selection-end="218" vertical-scroll-proportion="0.27272728">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,7 +803,7 @@
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="-720168146" />
-              <option name="pluginDependenciesCrc" value="-962284282" />
+              <option name="pluginDependenciesCrc" value="322225286" />
               <option name="properties">
                 <map>
                   <entry key="grails.global.plugins.dir" value="C:\Users\yoza\.grails\2.2.3\global-plugins" />

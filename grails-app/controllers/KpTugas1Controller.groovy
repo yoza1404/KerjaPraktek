@@ -63,8 +63,8 @@ class KpTugas1Controller {
         if (version != null) {
             if (kpTugas1Instance.version > version) {
                 kpTugas1Instance.errors.rejectValue("version", "default.optimistic.locking.failure",
-                          [message(code: 'kpTugas1.label', default: 'KpTugas1')] as Object[],
-                          "Another user has updated this KpTugas1 while you were editing")
+                        [message(code: 'kpTugas1.label', default: 'KpTugas1')] as Object[],
+                        "Another user has updated this KpTugas1 while you were editing")
                 render(view: "edit", model: [kpTugas1Instance: kpTugas1Instance])
                 return
             }
@@ -105,7 +105,7 @@ class KpTugas1Controller {
         redirect(action: "list")
     }
 
-    def sgIpPing(){
+    def sgIpPing() {
         def ipIsUp = 0
         def b = params.ipAddress
         /*a = a.split("\\:")
@@ -114,36 +114,39 @@ class KpTugas1Controller {
         if (b == null) {
             b = "google.com"
         }*/
-
+        def cmd
         try {
-            def cmd = """ping -c 3 """ + b
+            if (System.properties['os.name'].toLowerCase().contains('windows')) {
+                cmd = """ping -n 3 """ + b
+            } else {
+                cmd = """ping -c 3 """ + b
+            }
+
             println cmd
 
-            def proc= cmd.execute()
+            def proc = cmd.execute()
             proc.waitFor()
-            ipIsUp=proc.exitValue()
+            ipIsUp = proc.exitValue()
 
             println ipIsUp
             println proc.in.text
 
         }
-        catch(Error e)
-        {
+        catch (Error e) {
             println e
         }
 
         def String kembali
-        if (ipIsUp==0) {
+        if (ipIsUp == 0) {
             kembali = b + " is available."
             flash.message = b + " is available."
         } else {
             kembali = b + " is not available."
         }
-        def ads = [kembali:kembali]
+        def ads = [kembali: kembali]
         println ads
         //render kembali as JSON
         render ads as JSON
-
 
 
     }
