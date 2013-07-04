@@ -1,9 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <r:layoutResources></r:layoutResources>
     <meta name="layout" content="main">
+
+    <script type="text/javascript" src="${resource(dir: 'js', file: 'jquery-1.9.1.js')}"></script>
+
+    <script type="text/javascript"
+            src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js">
+    </script>
+
+    <link type="text/css" rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"/>
+
+    <link type="text/css" rel="stylesheet" href="${resource(dir: 'css', file: 'bootstrap-datetimepicker.min.css')}"/>
+    <script type="text/javascript" src='${resource(dir: "js", file: "bootstrap-datetimepicker.min.js")}'></script>
+
+    <link type="text/css" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css"
+          rel="stylesheet">
+
     <g:set var="entityName" value="${message(code: 'kpTugas1.label', default: 'Well')}"/>
 
     <title><g:message code="default.create.label" args="[entityName]"/></title>

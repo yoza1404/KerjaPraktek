@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb77a5d2-4efc-4490-b172-ce9ab77d98da" name="Default" comment="">
+    <list default="true" id="cb77a5d2-4efc-4490-b172-ce9ab77d98da" name="Default" comment="Modify sgIpPing, css-js workarounds">
       <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\ApplicationResources$_run_closure1.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\ApplicationResources$_run_closure1_closure2.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\ApplicationResources.class" afterPath="" />
@@ -66,9 +66,12 @@
       <change type="DELETED" beforePath="C:\Users\yoza\Documents\KP\KerjaPraktek\target\classes\resources.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerjaPraktek-grailsPlugins.iml" afterPath="$PROJECT_DIR$/KerjaPraktek-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" afterPath="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/js/application.js" afterPath="$PROJECT_DIR$/web-app/js/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" afterPath="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -80,14 +83,15 @@
     <file path="/WitsWellSg.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372657049759" ignored="false" />
     <file path="/_form.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372900023532" ignored="false" />
     <file path="/KpTugas1.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372829906720" ignored="false" />
-    <file path="/main.css" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372732248004" ignored="false" />
-    <file path="/create.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372901917988" ignored="false" />
+    <file path="/main.css" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372907700769" ignored="false" />
+    <file path="/create.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372907162452" ignored="false" />
     <file path="/KpTugas1Controller.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372901585593" ignored="false" />
     <file path="/list.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372686488044" ignored="false" />
     <file path="/show.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372839637278" ignored="false" />
     <file path="/edit.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372726936825" ignored="false" />
-    <file path="/Dummy.txt" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372902303891" ignored="false" />
+    <file path="/Dummy.txt" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372907969053" ignored="false" />
     <file path="/ApplicationResources.groovy" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372902135813" ignored="false" />
+    <file path="/main.gsp" changelist="cb77a5d2-4efc-4490-b172-ce9ab77d98da" time="1372907750908" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,21 +161,30 @@
       <file leaf-file-name="_form.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="231" column="74" selection-start="9906" selection-end="9906" vertical-scroll-proportion="27.567568">
+            <state line="6" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="-2.0816326">
               <folding>
-                <marker date="1372900053900" expanded="true" signature="1332:1345" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="1446:1459" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="1560:1573" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="1674:1687" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="5987:5997" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="6180:6190" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="6373:6383" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="6565:6575" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="7002:7012" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="7199:7209" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="7396:7406" placeholder="{...}" />
-                <marker date="1372900053900" expanded="true" signature="7592:7602" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="1300:1313" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="1414:1427" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="1528:1541" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="1642:1655" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="5955:5965" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="6148:6158" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="6341:6351" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="6533:6543" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="6970:6980" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="7167:7177" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="7364:7374" placeholder="{...}" />
+                <marker date="1372906435968" expanded="true" signature="7560:7570" placeholder="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -179,25 +192,25 @@
       <file leaf-file-name="create.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="23" selection-start="146" selection-end="146" vertical-scroll-proportion="1.6938776">
+            <state line="17" column="0" selection-start="840" selection-end="840" vertical-scroll-proportion="-5.897959">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap-datetimepicker.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/css/bootstrap-datetimepicker.min.css">
+      <file leaf-file-name="main.gsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+            <state line="26" column="83" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.6133829">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/show.gsp">
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="91" selection-start="6624" selection-end="6624" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,7 +219,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="11" selection-start="4052" selection-end="4052" vertical-scroll-proportion="0.0">
+            <state line="623" column="27" selection-start="11558" selection-end="11558" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -221,24 +234,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationResources.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ApplicationResources.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="60" selection-start="218" selection-end="218" vertical-scroll-proportion="0.27272728">
+            <state line="3" column="5" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KpTugas1.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/KpTugas1.groovy">
+      <file leaf-file-name="ResourceProcessor.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.grails/2.2.3/projects/KerjaPraktek/plugins/resources-1.2/src/groovy/org/grails/plugin/resource/ResourceProcessor.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="35" selection-start="4431" selection-end="4431" vertical-scroll-proportion="-5.9791665">
+            <state line="762" column="0" selection-start="27518" selection-end="27518" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="ModulesBuilder.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.grails/2.2.3/projects/KerjaPraktek/plugins/resources-1.2/src/groovy/org/grails/plugin/resource/module/ModulesBuilder.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="0" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -267,22 +286,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/controllers/WitsWellSgController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/WitsProjectController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/WitsWellSg.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/CreateNewWell.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/witsWellSg/_form.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/list.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/edit.gsp" />
-        <option value="$PROJECT_DIR$/web-app/css/main.css" />
         <option value="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
-        <option value="$PROJECT_DIR$/web-app/js/application.js" />
         <option value="$PROJECT_DIR$/grails-app/domain/KpTugas1.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/show.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/KpTugas1Controller.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp" />
+        <option value="$PROJECT_DIR$/web-app/js/application.js" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/web-app/css/main.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp" />
       </list>
     </option>
   </component>
@@ -339,6 +358,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KerjaPraktek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KerjaPraktek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KerjaPraktek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KerjaPraktek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KerjaPraktek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KerjaPraktek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -353,6 +422,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -534,7 +604,11 @@
       <created>1372900059230</created>
       <updated>1372900059230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modify sgIpPing, css-js workarounds">
+      <created>1372902321787</created>
+      <updated>1372902321787</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -568,19 +642,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21314102" sideWeight="0.11212121" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3253205" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3253205" sideWeight="0.81666666" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.67467946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.786859" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21314102" sideWeight="0.8878788" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39903846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409091" sideWeight="0.60030395" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409091" sideWeight="0.786859" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -662,52 +736,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/edit.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="29" selection-start="2183" selection-end="2183" vertical-scroll-proportion="-4.6595745">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/WitsWellSgController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.3043479">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/list.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="58" selection-start="993" selection-end="1652" vertical-scroll-proportion="-4.191489">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages.properties">
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="69" selection-start="3266" selection-end="3266" vertical-scroll-proportion="-13.037037" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/DrillingMeasured.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/WitsWellSg.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="56" selection-start="4083" selection-end="4083" vertical-scroll-proportion="-29.34">
@@ -716,11 +744,6 @@
       </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/js/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="363" selection-end="363" vertical-scroll-proportion="0.398773" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/show.gsp">
@@ -740,36 +763,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="74" selection-start="9906" selection-end="9906" vertical-scroll-proportion="27.567568">
-          <folding>
-            <marker date="1372900053900" expanded="true" signature="1332:1345" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="1446:1459" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="1560:1573" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="1674:1687" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="5987:5997" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="6180:6190" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="6373:6383" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="6565:6575" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="7002:7012" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="7199:7209" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="7396:7406" placeholder="{...}" />
-            <marker date="1372900053900" expanded="true" signature="7592:7602" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-app/css/bootstrap-datetimepicker.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="33" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="228" column="11" selection-start="4052" selection-end="4052" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -781,16 +777,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp">
+    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/KerjaPraktek/plugins/resources-1.2/src/groovy/org/grails/plugin/resource/module/ModulesBuilder.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="146" selection-end="146" vertical-scroll-proportion="1.6938776">
+        <state line="62" column="0" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/KerjaPraktek/plugins/resources-1.2/src/groovy/org/grails/plugin/resource/ResourceProcessor.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="762" column="0" selection-start="27518" selection-end="27518" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="60" selection-start="218" selection-end="218" vertical-scroll-proportion="0.27272728">
+        <state line="3" column="5" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Groovy/grails-2.2.3/src/grails-plugin-gsp-2.2.3-sources.jar!/org/codehaus/groovy/grails/plugins/web/taglib/RenderTagLib.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="311" column="12" selection-start="11483" selection-end="11483" vertical-scroll-proportion="-9.489559">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/KerjaPraktek/plugins/resources-1.2/grails-app/taglib/org/grails/plugin/resource/ResourceTagLib.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="379" column="8" selection-start="12904" selection-end="12904" vertical-scroll-proportion="-0.37819025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="623" column="27" selection-start="11558" selection-end="11558" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="-2.0816326">
+          <folding>
+            <marker date="1372906435968" expanded="true" signature="1300:1313" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="1414:1427" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="1528:1541" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="1642:1655" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="5955:5965" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="6148:6158" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="6341:6351" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="6533:6543" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="6970:6980" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="7167:7177" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="7364:7374" placeholder="{...}" />
+            <marker date="1372906435968" expanded="true" signature="7560:7570" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/kpTugas1/create.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="840" selection-end="840" vertical-scroll-proportion="-5.897959">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="83" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.6133829">
           <folding />
         </state>
       </provider>

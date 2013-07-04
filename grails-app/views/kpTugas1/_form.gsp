@@ -4,7 +4,7 @@
 <g:set var="langtitudeSplit" value="${[0, 0, 0, 0]}" scope="page"/>
 <g:set var="linkIP" value=" " scope="page"/>
 
-<g:javascript library="jquery"/>
+
 
 <div id="firstColumn" style="width:50%; float:left;" xmlns="http://www.w3.org/1999/html">
 
